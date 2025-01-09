@@ -516,7 +516,7 @@ function EnhancedLandingPage() {
         </div>
         <div className="mr-6 flex gap-6 items-center relative z-20">
           <ProfessionalButton
-            onClick={() => window.open('https://github.com/Harshal-Bhangale', '_blank')}
+            onClick={() => window.open('https://github.com/Harshal-Bhangale/BitBots_x_LevelSuperMindHackathon', '_blank')}
             className="bg-gradient-to-r from-teal-500 to-blue-500 hover:from-teal-600 hover:to-blue-600 text-white shadow-xl transform transition-all duration-300 ease-in-out hover:scale-105"
           >
             <Code className="w-5 h-5 mr-2" />

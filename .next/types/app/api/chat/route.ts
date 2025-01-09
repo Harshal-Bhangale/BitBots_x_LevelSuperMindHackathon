@@ -1,4 +1,4 @@
-// File: D:\Hackathon\Level super mind hackathon\Social Media Performane Analyzer\Bit Bot x Level SuperMind\app\api\chat\route.ts
+// File: D:\Hackathon\Level Super Mind Hackathon - 2025\TC\BitBots x Level SuperMind Hackathon\BitBots_x_LevelSuperMindHackathon\app\api\chat\route.ts
 import * as entry from '../../../../../app/api/chat/route.js'
 import type { NextRequest } from 'next/server.js'
 

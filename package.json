@@ -13,7 +13,7 @@
     "chat-app": "file:",
     "framer-motion": "^11.5.2",
     "lucide-react": "^0.438.0",
-    "next": "^14.2.22",
+    "next": "^14.2.23",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },

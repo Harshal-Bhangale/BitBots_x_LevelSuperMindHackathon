@@ -1,4 +1,4 @@
-// File: D:\Hackathon\Level super mind hackathon\Social Media Performane Analyzer\Bit Bot x Level SuperMind\app\chat\page.tsx
+// File: D:\Hackathon\Level Super Mind Hackathon - 2025\TC\BitBots x Level SuperMind Hackathon\BitBots_x_LevelSuperMindHackathon\app\chat\page.tsx
 import * as entry from '../../../../app/chat/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
