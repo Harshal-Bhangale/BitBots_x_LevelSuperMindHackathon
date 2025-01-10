@@ -42,7 +42,7 @@ Social media performance data (e.g., likes, comments, shares) is fetched and sto
 Data is processed and analyzed using a LangFlow-based workflow.
 
 2. LangFlow Workflow:
-iT integrates LangFlow to orchestrate the data processing pipeline. Below snapshot of the workflow:
+It integrates LangFlow to orchestrate the data processing pipeline. Below snapshot of the workflow:
 
 <img src="public\assests\t3.png" alt="Project Logo" />
 
@@ -132,6 +132,8 @@ Here are the important links for the Social Media Performance Analyzer project :
 2. Live Demo - https://bit-bots-x-level-super-mind-hackathon.vercel.app/
 
 3. YouTube Demo - https://youtu.be/sSM_xtDCn98
+
+4. Project Submission - https://www.findcoder.io/projects/bit-bots/67802a678015401a98a4a6c5
 
 
 ## Team 
