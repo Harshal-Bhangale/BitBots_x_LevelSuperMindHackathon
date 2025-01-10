@@ -2,6 +2,16 @@
 
 Level SuperMind Pre-Hackathon Assignment, Powered By Level SuperMind
 
+## Links 
+
+Here are the important links for the Social Media Performance Analyzer project :
+
+1. Live Demo - https://bit-bots-x-level-super-mind-hackathon.vercel.app/
+
+2. YouTube Demo - https://youtu.be/sSM_xtDCn98
+
+3. Project Submission - https://www.findcoder.io/projects/bit-bots/67802a678015401a98a4a6c5
+
 # Social Media Performance Analyzer
 Hello Everyone, We Team Bit Bots,
 
@@ -123,17 +133,6 @@ Provide actionable, AI-powered recommendations in real-time for optimizing conte
 ```
 
 
-## Links 
-
-Here are the important links for the Social Media Performance Analyzer project :
-
-1. GitHub Repository - https://github.com/Harshal-Bhangale/BitBots_x_LevelSuperMindHackathon
-
-2. Live Demo - https://bit-bots-x-level-super-mind-hackathon.vercel.app/
-
-3. YouTube Demo - https://youtu.be/sSM_xtDCn98
-
-4. Project Submission - https://www.findcoder.io/projects/bit-bots/67802a678015401a98a4a6c5
 
 
 ## Team 
