@@ -46,16 +46,16 @@ iT integrates LangFlow to orchestrate the data processing pipeline. Below snapsh
 
 <img src="public\assests\t3.png" alt="Project Logo" />
 
-    Workflow Steps -\
-    1.Text Input: "The user begins by entering a query, such as 'Compare engagement for reels and static posts.'
-    File Loader: "This component loads the engagement data stored in a CSV file."\
-    2. Parse Data: "It extracts specific metrics like likes, shares, and comments for analysis."\
-    3. Astra DB: "This connects to DataStax Astra DB, where the data is stored, and fetches the necessary information."\
-    4. Text Splitter: "If the data is too large, the Text Splitter divides it into smaller chunks for easier processing."\
-    5. Combine Text: "Once the chunks are processed, they are combined back into a single dataset ready for GPT analysis."\
-    6. Prompt: "The Prompt component structures the data in a way that GPT can easily understand."\
-    7. Groq: "Groq filters the data, ensuring only the most relevant information is passed to GPT."\
-    8. Chat Output: "Finally, Chat Output displays the insights, such as ‘Reels have higher engagement than static posts.’"
+Workflow Steps -\
+1.Text Input: "The user begins by entering a query, such as 'Compare engagement for reels and static posts.'
+File Loader: "This component loads the engagement data stored in a CSV file."\
+2. Parse Data: "It extracts specific metrics like likes, shares, and comments for analysis."\
+3. Astra DB: "This connects to DataStax Astra DB, where the data is stored, and fetches the necessary information."\
+4. Text Splitter: "If the data is too large, the Text Splitter divides it into smaller chunks for easier processing."\
+5. Combine Text: "Once the chunks are processed, they are combined back into a single dataset ready for GPT analysis."\
+6. Prompt: "The Prompt component structures the data in a way that GPT can easily understand."\
+7. Groq: "Groq filters the data, ensuring only the most relevant information is passed to GPT."\
+8. Chat Output: "Finally, Chat Output displays the insights, such as ‘Reels have higher engagement than static posts.’"
 
 3. Data Storage with Astra DB:
 Datastax Astra DB is used for storing social media data in a scalable, cloud-native database.
