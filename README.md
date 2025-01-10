@@ -140,7 +140,3 @@ Here are the important links for the Social Media Performance Analyzer project :
 - Vaibhav Sathe [ @ryucraftz](https://github.com/ryucraftz)
 
 
-
----
-
-                                    ** Thank You So Much **
