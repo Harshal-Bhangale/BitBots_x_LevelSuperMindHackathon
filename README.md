@@ -139,10 +139,8 @@ Here are the important links for the Social Media Performance Analyzer project :
 - Harshal Bhangale[ @Harshal-Bhangale](https://github.com/Harshal-Bhangale)
 - Vaibhav Sathe [ @ryucraftz](https://github.com/ryucraftz)
 
+\
 
-___
-
-
-*** 
 ---
-                                           Thank You 
+
+                                        #Thank You So Much
