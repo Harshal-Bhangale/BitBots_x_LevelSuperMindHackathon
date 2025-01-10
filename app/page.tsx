@@ -130,7 +130,7 @@ function EnhancedLandingPage() {
               <iframe
                 width="900"
                 height="415"
-                src="https://youtu.be/sSM_xtDCn98"
+                src="https://youtu.be/sSM_xtDCn98?si=vgi7WXWPTQLXMZbv"
                 title="Tutorial Video"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
